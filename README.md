@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditi</h1>
-<h3 align="center">Coding-breaking-making-repeating to become a frontend developer!</h3>
+<h3 align="center">Coding-breaking-making-repeating to become a front-end developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi0505&label=Profile%20views&color=b0abcb&style=flat" alt="aditi0505" /> </p>
 
