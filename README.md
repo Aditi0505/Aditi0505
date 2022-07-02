@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [StarLight](https://starlightapp.netlify.app/)
 
-- 🌱 I’m currently learning **at NeogCamp**
+- 🌱 I’m currently learning about **TypeScript and Testing**
 
 - 👨‍💻 All of my projects are available at [https://aditi-portfolio.netlify.app/](https://aditi-portfolio.netlify.app/)
 
