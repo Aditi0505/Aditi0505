@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditi</h1>
 <h3 align="center">Build web apps, encouraging inclusion and diversity!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi0505&label=Profile%20views&color=b0abcb&style=flat" alt="aditi0505" /> </p>
-
 
 - 🔭 I’m currently working on [StarLight](https://starlightapp.netlify.app/)
 
