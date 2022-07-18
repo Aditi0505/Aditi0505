@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi0505&label=Profile%20views&color=b0abcb&style=flat" alt="aditi0505" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aadyaaditi" target="blank"><img src="https://img.shields.io/twitter/follow/aadyaaditi?logo=twitter&style=for-the-badge" alt="aadyaaditi" /></a> </p>
 
 - 🔭 I’m currently working on [StarLight](https://starlightapp.netlify.app/)
 
@@ -29,6 +28,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/aditi05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aditi05" height="30" width="40" /></a>
-<a href="https://twitter.com/aadyaaditi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadyaaditi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditi-35bba3149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditi-35bba3149" height="30" width="40" /></a>
 </p>
