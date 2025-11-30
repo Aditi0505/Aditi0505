@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aditi</h1>
-<h3 align="center">Build web apps, encouraging inclusion and diversity!</h3>
+<h3 align="center">Build web apps</h3>
 
 
-- 🔭 I’m currently working on [StarLight](https://starlightapp.netlify.app/)
+- 🔭 I’m currently working as a frontend developer at [https://www.thena.ai/](thena.ai)
 
-- 🌱 I’m currently learning about **TypeScript and Testing**
-
-- 📝 I regularly write articles on [https://dev.to/aditi05](https://dev.to/aditi05)
+- 🌱 I’m currently learning about **Next.js**
 
 - 📫 How to reach me **jhaditi5@gmail.com**
 
@@ -36,6 +34,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/aditi05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aditi05" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditi-35bba3149" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditi-35bba3149" height="30" width="40" /></a>
 </p>
